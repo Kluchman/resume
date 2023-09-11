@@ -1,5 +1,5 @@
 # Caleb Kluchman  
-![moshpit_salem](Downloads/moshpit_salem.jpg)   
+![moshpit_salem](moshpit_salem.jpg)   
 
 ## Education
 
@@ -10,4 +10,10 @@ Fiske Elementary School [Fiske](https://www.lexingtonma.org/fiske-elementary/)
 William Diamond Middle School [Diamond](https://www.lexingtonma.org/diamond-middle/)
 
 Cambridge School of Weston [CSW](https://www.csw.org/)
-Clark University[Clark University](https://www.clarku.edu/)
+
+Clark University [Clark University](https://www.clarku.edu/)
+
+
+## Research Interests
+
+I am interested in using machine learning for remote sensing. Currently, I am doing tree research through HERO with John Rogan and Deb Martin. I am thinking of doing land surface temperature projections based on roof material and color in worcester. 
